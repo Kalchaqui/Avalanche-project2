@@ -88,7 +88,7 @@ https://testnet.snowtrace.io/address/0x953bE4C9AA04052a97dD039eFA6E45D23Cd30b63
 
 ---
 
-## ✅ Final Deliverables (Day 11-14)
+## 🗓️ Final Deliverables (Day 11-14)
 
 1.  **eERC-20 Contract** deployed on the Avalanche Higia L1 Testnet for SaluData.
 2.  **Medical Record and Permissions Contract** in Solidity, functional and deployed.
