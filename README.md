@@ -6,7 +6,15 @@
 
 Este proyecto busca construir un MVP (Producto Mínimo Viable) de una historia clínica digital interoperable sobre la red **Avalanche**. El objetivo es empoderar a los pacientes dándoles control total sobre sus datos médicos a través de una billetera de salud, contratos inteligentes para la gestión de permisos, y la integración de un token **eERC-20 (EncryptedERC)** para garantizar el procesamiento seguro de la información.
 
-## 🛠️ Tecnologías Clave
+---
+
+## 🛠️ Contrato desplegado
+
+https://testnet.snowtrace.io/address/0x953bE4C9AA04052a97dD039eFA6E45D23Cd30b63
+
+---
+
+## 🛠️ Tecnologías
 
 - **Blockchain:** Avalanche (Fuji Testnet, Higia L1)
 - **Contratos Inteligentes:** Solidity
