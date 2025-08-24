@@ -6,13 +6,13 @@
 
 This project aims to build a Minimum Viable Product (MVP) of an interoperable digital health record on the **Avalanche** network. The goal is to empower patients by giving them full control over their medical data through a health wallet, smart contracts for permission management, and the integration of an **eERC-20 (EncryptedERC)** token to ensure secure information processing.
 
-## 🗺️ Video Demo
+## ✅ Video Demo
 
 https://www.youtube.com/watch?v=F0k-zdCk0hI
 
 ---
 
-## 🛠️ Deploy Contrat 
+## ✅ Deploy Contrat 
 
 https://testnet.snowtrace.io/address/0x953bE4C9AA04052a97dD039eFA6E45D23Cd30b63
 
