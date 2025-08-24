@@ -95,6 +95,10 @@ https://testnet.snowtrace.io/address/0x953bE4C9AA04052a97dD039eFA6E45D23Cd30b63
 5.  **Pitch Deck and Technical Report:**
     * A document detailing the architecture, the functional demo, and the next steps for the project.
 
+---
+
+## ✅ Dapp images
+
 <img width="1280" height="587" alt="image" src="https://github.com/user-attachments/assets/5d325c98-fa38-41e0-8405-9cefa4f8486b" />
 <img width="1280" height="552" alt="image" src="https://github.com/user-attachments/assets/ea466733-500b-4c0c-9d8e-81a8a1cb234e" />
 <img width="1280" height="578" alt="image" src="https://github.com/user-attachments/assets/9ab19571-ea5d-46fa-b99f-72f716b58892" />
